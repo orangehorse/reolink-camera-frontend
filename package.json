@@ -31,9 +31,3 @@
       "last 1 safari version"
     ]
   }
-}
-```
-
-### **2. .env.example** (Root level)
-```
-REACT_APP_API_URL=http://localhost:5000
